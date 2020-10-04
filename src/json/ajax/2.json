@@ -1,0 +1,257 @@
+{
+    "articles": {
+        "count": 192,
+        "items": []
+    },
+    "tags": {
+        "count": 10,
+        "items": [
+            [
+                "Шаровые краны тип ручки бабочка",
+                "/catalog/price-sharovye-krany-tip-ruchki-babochka-54981/"
+            ],
+            [
+                "Шаровые краны тип ручки ручка",
+                "/catalog/price-sharovye-krany-tip-ruchki-ruchka-54983/"
+            ],
+            [
+                "Шаровые краны проходы полнопроходной",
+                "/catalog/price-sharovye-krany-prohody-polnoprohodnoy-54968/"
+            ],
+            [
+                "Шаровые краны тип ручки рычаг",
+                "/catalog/price-sharovye-krany-tip-ruchki-rychag-54984/"
+            ],
+            [
+                "Шаровые краны резьба наружная",
+                "/catalog/price-sharovye-krany-rezba-naruzhnaya-54979/"
+            ],
+            [
+                "Шаровые краны форма угловая",
+                "/catalog/price-sharovye-krany-forma-uglovaya-54989/"
+            ],
+            [
+                "Шаровые краны резьба накидная гайка",
+                "/catalog/price-sharovye-krany-rezba-nakidnaya-gayka-54978/"
+            ],
+            [
+                "Шаровые краны оснащение накидная гайка",
+                "/catalog/price-sharovye-krany-osnashchenie-nakidnaya-gayka-54960/"
+            ],
+            [
+                "Шаровые краны резьба 1",
+                "/catalog/price-sharovye-krany-rezba-1-54972/"
+            ],
+            [
+                "Шаровые краны тип фитинга американка",
+                "/catalog/price-sharovye-krany-tip-fitinga-amerikanka-54987/"
+            ]
+        ]
+    },
+    "interiors": {
+        "count": 10,
+        "items": []
+    },
+    "tenders": {
+        "count": 367,
+        "items": []
+    },
+    "products": {
+        "count": 8518,
+        "items": [
+            [
+                null,
+                "Кран 16х16 мм",
+                "/gate/?cid=173277&product_id=695504226",
+                null,
+                42.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Кузьмич24",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран 20х20 мм",
+                "/gate/?cid=173277&product_id=695504227",
+                null,
+                60.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Кузьмич24",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран компрессионный КЛхКЛ",
+                "/gate/?cid=173277&product_id=695504231",
+                null,
+                65.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Кузьмич24",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран компрессионный КЛх16 мм",
+                "/gate/?cid=173277&product_id=695504230",
+                null,
+                58.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Кузьмич24",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран шаровой 1/2",
+                "/gate/?cid=196628&product_id=695616504",
+                null,
+                293.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Сима Ленд",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Настольный кран istok 0402.728",
+                "/gate/?cid=44200&product_id=696047343",
+                null,
+                363.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Компания ВсеИнструменты, ООО",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Настольный кран juguni jgn1140, моно, кран-букса керамический, хром/мах. 0402.661",
+                "/gate/?cid=44200&product_id=696047311",
+                null,
+                517.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Компания ВсеИнструменты, ООО",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран полипропиленовый шаровой PPRC 25",
+                "/gate/?cid=40288&product_id=687293345",
+                null,
+                100.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Компания ГольфСтрим",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран для чистой воды №3",
+                "/gate/?cid=40288&product_id=689349609",
+                null,
+                1549.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Компания ГольфСтрим",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Кран чистой воды AN-12",
+                "/gate/?cid=181570&product_id=695498900",
+                null,
+                525.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Код Ремонта",
+                0,
+                "шт"
+            ]
+        ]
+    },
+    "questions": {
+        "count": 7,
+        "items": []
+    },
+    "firms": {
+        "count": 102,
+        "items": []
+    },
+    "sections": {
+        "count": 10,
+        "items": [
+            [
+                "Смесители и краны, общее",
+                "/catalog/section-drugie-smesiteli-i-krany-2415/"
+            ],
+            [
+                "Шаровые краны",
+                "/catalog/section-krany-sharovye-probkovye-2265/"
+            ],
+            [
+                "Краны для писсуаров",
+                "/catalog/section-krany-dlya-pissuarov-5547/"
+            ],
+            [
+                "Краны консольные",
+                "/catalog/section-krany-stroitelnomontazhnye-2985/"
+            ],
+            [
+                "Башенные краны",
+                "/catalog/section-bashennye-krany-2983/"
+            ],
+            [
+                "Насадки-фильтры на кран",
+                "/catalog/section-nasadkifiltry-na-kran-6243/"
+            ],
+            [
+                "Аренда крана-манипулятора",
+                "/catalog/section-arenda-kranamanipulyatora-3452/"
+            ],
+            [
+                "Кран-букса",
+                "/catalog/section-kranbuksa-7275/"
+            ],
+            [
+                "Аренда крана",
+                "/catalog/section-arenda-krana-3465/"
+            ],
+            [
+                "Гусеничные краны",
+                "/catalog/section-gusenichnye-krany-2981/"
+            ]
+        ]
+    }
+}

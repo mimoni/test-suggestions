@@ -1,0 +1,44 @@
+.btn {
+    align-items: center;
+    box-sizing: border-box;
+    display: inline-flex;
+    padding: 7px 15px;
+    font-size: 14px;
+    line-height: (24/14);
+    font-weight: 600;
+    border: 1px solid $greyBorder;
+    border-radius: 4px;
+    background-color: $grey;
+
+    &--yellow {
+        border-color: $yellow;
+        background-color: $yellow;
+
+        svg {
+            margin-right: 8px;
+        }
+    }
+
+    &__icon-list {
+        svg {
+            display: block;
+        }
+
+        &--active {
+            position: relative;
+            margin-right: 11px;
+
+            &::after {
+                content: '';
+                position: absolute;
+                top: -3px;
+                right: -3px;
+                width: 10px;
+                height: 10px;
+                border: 2px solid $grey;
+                border-radius: 50%;
+                background-color: $red;
+            }
+        }
+    }
+}

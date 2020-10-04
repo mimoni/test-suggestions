@@ -1,0 +1,57 @@
+---
+title: Страницы
+layout: default
+---
+<div class="wrapper wrapper--pages">
+    <h1>Страницы</h1>
+
+    {{#each _pages}}
+    <div class="pages__item {{#if isReady}}pages__item--is-ready{{/if}}">
+        <a class="link-underline-new link-underline-new--purple" href="{{file}}">{{file}}</a><br/>
+        {{title}}
+    </div>
+    {{/each}}
+</div>
+
+<style>
+    .wrapper--pages {
+        padding: 10rem 0;
+        font-size: 0;
+    }
+
+    @media (max-width: 1023px) {
+        .wrapper--pages {
+            padding: 5rem 0;
+        }
+    }
+
+    .wrapper--pages h1 {
+        margin: 0 0 4rem;
+    }
+
+    .pages__item {
+        display: inline-block;
+        vertical-align: top;
+        width: 32%;
+        padding: 0 2rem 0 0;
+        font-size: 1.6rem;
+        color: #ff3d00;
+        margin: 0 0 3rem;
+    }
+
+    @media (max-width: 1023px) {
+        .pages__item {
+            width: 50%;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .pages__item {
+            width: 100%;
+        }
+    }
+
+    .pages__item--is-ready {
+        color: #6bc669;
+    }
+</style>

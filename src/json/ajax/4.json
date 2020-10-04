@@ -1,0 +1,184 @@
+{
+    "articles": {
+        "count": 17,
+        "items": []
+    },
+    "tags": {
+        "count": 2,
+        "items": [
+            [
+                "Сан марко",
+                "/catalog/price-san-marko-24765/"
+            ],
+            [
+                "Тротуарная плитка серия сан тропе",
+                "/catalog/price-trotuarnaya-plitka-seriya-san-trope-53758/"
+            ]
+        ]
+    },
+    "interiors": {
+        "count": 7,
+        "items": []
+    },
+    "tenders": {
+        "count": 59,
+        "items": []
+    },
+    "products": {
+        "count": 1432,
+        "items": [
+            [
+                null,
+                "Лопата снеговая Сан Тропе ЦИ 0735",
+                "/gate/?cid=173277&product_id=687395055",
+                null,
+                2684.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Кузьмич24",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Kronospan, Ламинат Kronospan 5548 Сосна Сан Фернандо",
+                "/gate/?cid=196411&product_id=695422388",
+                null,
+                459.0,
+                "413.10",
+                "руб.",
+                false,
+                3,
+                "OboiDa",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Handler, Ламинат Handler Lamineli Дуб Сан Марко",
+                "/gate/?cid=196411&product_id=695424334",
+                null,
+                779.0,
+                "701.10",
+                "руб.",
+                false,
+                3,
+                "OboiDa",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Floorwood, Ламинат Floorwood Сан-Марко (San Marco)",
+                "/gate/?cid=196411&product_id=695422600",
+                null,
+                880.0,
+                "792.00",
+                "руб.",
+                false,
+                3,
+                "OboiDa",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Декор, Керамин, Сан-Ремо Вода/тип 1 20x20",
+                "/gate/?cid=152408&product_id=690241329",
+                null,
+                150.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Керамическая плитка, Керамин, Сан-Ремо 7М белый 20x20",
+                "/gate/?cid=152408&product_id=695702026",
+                null,
+                519.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Керамическая плитка, Керамин, Сан-Ремо 1 красный 20x20",
+                "/gate/?cid=152408&product_id=686545788",
+                null,
+                549.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Керамическая плитка, Керамин, Сан-Ремо 7 белый 20x20",
+                "/gate/?cid=152408&product_id=686545855",
+                null,
+                549.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Керамическая плитка, Керамин, Сан-Ремо 3 оранжевый 20x20",
+                "/gate/?cid=152408&product_id=686545818",
+                null,
+                549.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Metrax Craye, Saint-Tropez/ Сан Тропе 70х50, Бельгия",
+                "/gate/?cid=152408&product_id=690177139",
+                null,
+                6410.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ]
+        ]
+    },
+    "questions": {
+        "count": 1,
+        "items": []
+    },
+    "firms": {
+        "count": 1195,
+        "items": []
+    },
+    "sections": {
+        "count": 0,
+        "items": []
+    }
+}

@@ -1,0 +1,69 @@
+// stylelint-disable
+@mixin clearfix {
+    &::after {
+        content: '';
+        display: table !important;
+        clear: both;
+        height: 0 !important;
+        visibility: hidden;
+    }
+}
+
+@mixin mq($from, $to: false) {
+    @if $to {
+        @media (min-width: $from + 0px) and (max-width: $to + 0px) {
+            @content;
+        }
+    } @else {
+        @media (max-width: $from + 0px) {
+            @content;
+        }
+    }
+}
+
+@mixin mqh($from, $to: false) {
+    @if $to {
+        @media (min-height: $from + 0px) and (max-height: $to + 0px) {
+            @content;
+        }
+    } @else {
+        @media (max-height: $from + 0px) {
+            @content;
+        }
+    }
+}
+
+@mixin hover($isActive: false) {
+    @if $isActive {
+        body.is-no-touch &:hover, &:active {
+            @content;
+        }
+    } @else {
+        body.is-no-touch &:hover {
+            @content;
+        }
+    }
+}
+
+@mixin fontface($family, $localname, $localname2, $filename, $weight, $style) {
+    @font-face {
+        font-display: swap;
+        font-family: $family;
+        src: local('#{$localname}'), local('#{$localname2}'), url('../assets/fonts/#{$filename}.woff2') format('woff2'), url('../assets/fonts/#{$filename}.woff') format('woff');
+        font-weight: $weight;
+        font-style: $style;
+    }
+}
+
+@mixin retina() {
+    @media
+    screen and (-webkit-min-device-pixel-ratio: 2),
+    screen and (   min--moz-device-pixel-ratio: 2),
+    screen and (   -moz-min-device-pixel-ratio: 2),
+    screen and (     -o-min-device-pixel-ratio: 2/1),
+    screen and (        min-device-pixel-ratio: 2),
+    screen and (             min-resolution: 192dpi),
+    screen and (             min-resolution: 2dppx) {
+        @content;
+    }
+}

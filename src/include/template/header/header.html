@@ -1,0 +1,71 @@
+<header class="header js-header">
+    <div class="header__top">
+        <div class="header__top-inner container">
+            <a class="header__city" href="#">
+                <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M13 6.69c0 4.583-6 8.51-6 8.51s-6-3.927-6-8.51c0-1.561.632-3.06 1.757-4.165A6.057 6.057 0 017 .8c1.591 0 3.117.62 4.243 1.725A5.837 5.837 0 0113 6.691z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M7 8.655c1.104 0 2-.88 2-1.964s-.896-1.963-2-1.963c-1.105 0-2 .879-2 1.963 0 1.085.895 1.964 2 1.964z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+
+                Волгоградская область
+            </a>
+
+            <ul class="header__menu">
+                <li class="header__menu-item">
+                    <a class="header__menu-link" href="#">Тендеры</a>
+                </li>
+                <li class="header__menu-item">
+                    <a class="header__menu-link" href="#">База подрядчиков</a>
+                </li>
+                <li class="header__menu-item">
+                    <a class="header__menu-link" href="#">
+                        Другие сервисы
+
+                        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M4.5 6.75L9 11.25L13.5 6.75" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="header__bottom">
+        <div class="header__bottom-inner container">
+            <a class="header__logo header__bottom-item" href="#">
+                <img src="/assets/img/temp/logo.png" alt="Логотип Стройпортал" width="221px" height="48px">
+            </a>
+
+            <a class="btn btn--yellow header__bottom-item" href="#">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M2.5 10h15M2.5 5h15M2.5 15h15" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Каталог
+            </a>
+
+            <form class="form-search header__bottom-item" action="/search">
+                <input class="form-search__input js-suggestion-input" type="text" name="search" placeholder="Хочу найти...">
+
+                <button class="form-search__submit" type="submit">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M9.167 15.833a6.667 6.667 0 100-13.333 6.667 6.667 0 000 13.333zM17.5 17.5l-3.625-3.625" stroke="#708598" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </form>
+
+            <a class="btn header__bottom-item" href="#">
+                <span class="btn__icon-list btn__icon-list--active">
+                    <svg width="18" height="22" viewBox="0 0 18 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M15 1H3a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V3a2 2 0 00-2-2v0zM13 11H5M13 15H5M10 7H5" stroke="#708598" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+
+                Список
+            </a>
+
+            <a class="header__user-link header__bottom-item" href="#">A</a>
+        </div>
+    </div>
+</header>
+
+{{> suggestion}}

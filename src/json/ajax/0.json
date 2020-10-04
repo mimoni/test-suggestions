@@ -1,0 +1,60 @@
+{
+    "articles": {
+        "count": 125,
+        "items": []
+    },
+    "tags": {
+        "count": 2,
+        "items": [
+            [
+                "Тумбы для ванной форма мебели прямоугольная",
+                "/catalog/price-tumby-dlya-vannoy-forma-mebeli-pryamougolnaya-53853/"
+            ],
+            [
+                "Тумбы для ванной форма мебели ассиметричная",
+                "/catalog/price-tumby-dlya-vannoy-forma-mebeli-assimetrichnaya-53852/"
+            ]
+        ]
+    },
+    "interiors": {
+        "count": 19,
+        "items": []
+    },
+    "tenders": {
+        "count": 18,
+        "items": []
+    },
+    "products": {
+        "count": 0,
+        "items": []
+    },
+    "questions": {
+        "count": 0,
+        "items": []
+    },
+    "firms": {
+        "count": 707,
+        "items": []
+    },
+    "sections": {
+        "count": 4,
+        "items": [
+            [
+                "Мебель для ванной комнаты",
+                "/catalog/section-mebel-dlya-vannyh-komnat-275/"
+            ],
+            [
+                "Мебель для ванной комнаты, общее",
+                "/catalog/section-drugaya-mebel-dlya-vannyx-komnat-1978/"
+            ],
+            [
+                "Комплекты мебели для ванных комнат",
+                "/catalog/section-komplekty-mebeli-dlya-vannyx-komnat-1973/"
+            ],
+            [
+                "Подбор мебели для ванной",
+                "/catalog/section-podbor-3671/"
+            ]
+        ]
+    }
+}

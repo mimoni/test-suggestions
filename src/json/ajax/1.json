@@ -1,0 +1,175 @@
+{
+    "articles": {
+        "count": 8,
+        "items": []
+    },
+    "tags": {
+        "count": 0,
+        "items": []
+    },
+    "interiors": {
+        "count": 0,
+        "items": []
+    },
+    "tenders": {
+        "count": 3,
+        "items": []
+    },
+    "products": {
+        "count": 128,
+        "items": [
+            [
+                null,
+                "Vidima, Ван BA085AA",
+                "/gate/?cid=152408&product_id=690262093",
+                null,
+                6170.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "См ван/умыв 40к 2162F FRAP",
+                "/gate/?cid=181570&product_id=687768524",
+                null,
+                3025.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Код Ремонта",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Decoria, Виниловый пол Decoria DW 2221 Дуб Ван",
+                "/gate/?cid=196411&product_id=695420446",
+                null,
+                990.0,
+                "891.00",
+                "руб.",
+                false,
+                3,
+                "OboiDa",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "См ван/умыв 1/2 кер 2619F FRAP",
+                "/gate/?cid=181570&product_id=687775312",
+                null,
+                2290.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Код Ремонта",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Панно, Alzare, из мозаики Ван Гог (1x1) 249.6x323.7",
+                "/gate/?cid=152408&product_id=695741805",
+                null,
+                112159.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Metrax Craye, Bedroom in Arles/Спальня (Ван Гог) 70x100, Бельгия",
+                "/gate/?cid=152408&product_id=690176375",
+                null,
+                12040.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "См ван/умыв 1/2 кер 2619-4F FRAP бронза",
+                "/gate/?cid=181570&product_id=687768528",
+                null,
+                3865.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Код Ремонта",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "См ван/умыв 1/2 кер 2124F FRAP картриджн перекл",
+                "/gate/?cid=181570&product_id=687775310",
+                null,
+                2815.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "Код Ремонта",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Flanders Tapestries, Van Gogh - Portret/Автопортрет (Ван Гог) 100x121, Бельгия",
+                "/gate/?cid=152408&product_id=690176283",
+                null,
+                18200.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Flanders Tapestries, Van Gogh - Bateaux/Ван Гог - Барки 97х74, Бельгия",
+                "/gate/?cid=152408&product_id=690176216",
+                null,
+                19600.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ]
+        ]
+    },
+    "questions": {
+        "count": 0,
+        "items": []
+    },
+    "firms": {
+        "count": 140,
+        "items": []
+    },
+    "sections": {
+        "count": 0,
+        "items": []
+    }
+}

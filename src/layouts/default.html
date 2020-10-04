@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru" class="{{#if htmlClass}}{{htmlClass}}{{/if}}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <title>{{title}}</title>
+</head>
+<body>
+
+    {{> header}}
+
+    {{> body}}
+
+    <script> window.module = {};</script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash.debounce@4.0.8/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script src="js/libs.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

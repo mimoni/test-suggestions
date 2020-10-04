@@ -1,0 +1,257 @@
+{
+    "articles": {
+        "count": 742,
+        "items": []
+    },
+    "tags": {
+        "count": 10,
+        "items": [
+            [
+                "Дверь глухая",
+                "/catalog/price-dver-gluhaya-6765/"
+            ],
+            [
+                "Белые двери",
+                "/catalog/price-belye-dveri-5700/"
+            ],
+            [
+                "Двери из стекла",
+                "/catalog/price-dveri-iz-stekla-5775/"
+            ],
+            [
+                "Дверь дпм",
+                "/catalog/price-dver-dpm-7304/"
+            ],
+            [
+                "Двери дпм",
+                "/catalog/price-dveri-dpm-9307/"
+            ],
+            [
+                "Межкомнатные двери коллекция классик",
+                "/catalog/price-mezhkomnatnye-dveri-kollektsiya-klassik-45541/"
+            ],
+            [
+                "Межкомнатные двери коллекция престиж",
+                "/catalog/price-mezhkomnatnye-dveri-kollektsiya-prestizh-45546/"
+            ],
+            [
+                "Межкомнатные двери коллекция каролина",
+                "/catalog/price-mezhkomnatnye-dveri-kollektsiya-karolina-45540/"
+            ],
+            [
+                "Межкомнатные двери рисунок дуб",
+                "/catalog/price-mezhkomnatnye-dveri-risunok-dub-45576/"
+            ],
+            [
+                "Межкомнатные двери коллекция венеция",
+                "/catalog/price-mezhkomnatnye-dveri-kollektsiya-venetsiya-37195/"
+            ]
+        ]
+    },
+    "interiors": {
+        "count": 227,
+        "items": []
+    },
+    "tenders": {
+        "count": 2364,
+        "items": []
+    },
+    "products": {
+        "count": 68234,
+        "items": [
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Престиж ДГ (Каштан) 2000x1200",
+                "/gate/?cid=152408&product_id=690189534",
+                null,
+                23770.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Престиж ДО (Каштан) 2000x1200",
+                "/gate/?cid=152408&product_id=690189554",
+                null,
+                26130.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Виктория ДГ (Орех) 2000x600",
+                "/gate/?cid=152408&product_id=690189430",
+                null,
+                4230.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Виктория ДО (Орех) 2000x800",
+                "/gate/?cid=152408&product_id=690189442",
+                null,
+                5380.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Престиж ДГ (Каштан) 2000x900",
+                "/gate/?cid=152408&product_id=690189538",
+                null,
+                11885.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Виктория ДГ (Орех) 2000x1200",
+                "/gate/?cid=152408&product_id=690189429",
+                null,
+                8460.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Виктория ДГ (Орех) 2000x700",
+                "/gate/?cid=152408&product_id=690189431",
+                null,
+                4230.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Квадро ДОО (Каштан) 2000x600",
+                "/gate/?cid=152408&product_id=690189510",
+                null,
+                9100.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Адант ДГ (Оливка) 2000x1200",
+                "/gate/?cid=152408&product_id=690189329",
+                null,
+                31400.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ],
+            [
+                null,
+                "Межкомнатная дверь, Дверь Белоруссии, Виктория ДГ (Орех) 2000x800",
+                "/gate/?cid=152408&product_id=690189432",
+                null,
+                4230.0,
+                false,
+                "руб.",
+                false,
+                3,
+                "ОТДЕЛКИНО CITY",
+                0,
+                "шт"
+            ]
+        ]
+    },
+    "questions": {
+        "count": 90,
+        "items": []
+    },
+    "firms": {
+        "count": 757,
+        "items": []
+    },
+    "sections": {
+        "count": 10,
+        "items": [
+            [
+                "Двери",
+                "/catalog/section-dveri-3/"
+            ],
+            [
+                "Межкомнатные двери",
+                "/catalog/section-mezhkomnatnye-dveri-derevyannye-steklyannye-13/"
+            ],
+            [
+                "Фурнитура для дверей",
+                "/catalog/section-dvernaya-furnitura-ruchki-zamki-dovodchiki-15/"
+            ],
+            [
+                "Входные двери",
+                "/catalog/section-vhodnye-dveri-metallicheskie-stalnye-prochie-14/"
+            ],
+            [
+                "Специальные двери",
+                "/catalog/section-plastikovye-i-alyuminievye-dveri-12/"
+            ],
+            [
+                "Противопожарные двери",
+                "/catalog/section-protivopozharnye-dveri-1031/"
+            ],
+            [
+                "Металлические входные двери",
+                "/catalog/section-vhodnye-dveri-iz-mdf-5179/"
+            ],
+            [
+                "Двери купе",
+                "/catalog/section-dveri-kupe-635/"
+            ],
+            [
+                "Двери для бани",
+                "/catalog/section-dveri-dlya-saun-i-ban-944/"
+            ],
+            [
+                "Стальные входные двери",
+                "/catalog/section-stalnye-vhodnye-dveri-5182/"
+            ]
+        ]
+    }
+}
