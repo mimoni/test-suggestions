@@ -1,0 +1,48 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+        "_": false,
+        "$": true,
+        "Helpers": false,
+        "JustValidate": false,
+        "bowser": false,
+        "Choices": false,
+        "axios": false,
+        "anime": false,
+        "Scrollbar": false,
+        "flatpickr": false,
+        "ymaps": false,
+        "IMask": false,
+        "LinkUnderlineNew": false,
+        "Vue": false,
+        "Swipe": false,
+        "WorkPopup": false,
+        "Headroom": false
+    },
+    "extends": [
+        "airbnb-base",
+        "plugin:lodash/recommended",
+        "plugin:unicorn/recommended",
+        "plugin:sonarjs/recommended"
+    ],
+    "plugins": [
+        "lodash",
+        "unicorn",
+        "sonarjs"
+    ],
+    "rules": {
+        "linebreak-style": ["off", "windows"],
+        "indent": ["error", 4],
+        "no-new": "off",
+        "max-len": ["error", 200],
+        "arrow-parens": ["error", "as-needed", {
+            "requireForBlockBody": false
+        }],
+        "prefer-template": "off",
+        "lodash/prefer-lodash-method": "off",
+        "sonarjs/no-duplicate-string": ["off", 6]
+    }
+}

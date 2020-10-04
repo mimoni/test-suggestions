@@ -1,0 +1,15 @@
+/*
+!/src
+!/.babelrc
+!/.editorconfig
+!/.eslintignore
+!/.eslintrc
+!/.gitignore
+!/.stylelintrc
+!/gulpfile.babel.js
+!/package.json
+!/package-lock.json
+!/readme.md
+!/.dockerignore
+!/.gitlab-ci.yml
+!/Dockerfile
