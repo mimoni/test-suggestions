@@ -100,9 +100,6 @@ class Suggestion {
                 }
             }
         });
-
-        // this._updateData();
-        window.app = this.app;
     }
 
     _queryMock() {
@@ -110,7 +107,7 @@ class Suggestion {
     }
 
     _updateData() {
-        fetch(`/json/ajax/${this._queryMock()}.json`)
+        fetch(`json/ajax/${this._queryMock()}.json`)
             .then(response => response.json())
             .then(data => {
                 this.app.suggestion = this._checkData(data);
