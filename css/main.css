@@ -466,21 +466,21 @@ input[type='radio'].visually-hidden {
       border: none;
       margin-bottom: 0; }
     .suggestion__list--articles::before {
-      background-image: url("/assets/img/svg/articles.svg"); }
+      background-image: url("../assets/img/svg/articles.svg"); }
     .suggestion__list--tags::before {
-      background-image: url("/assets/img/svg/tags.svg"); }
+      background-image: url("../assets/img/svg/tags.svg"); }
     .suggestion__list--interiors::before {
-      background-image: url("/assets/img/svg/interiors.svg"); }
+      background-image: url("../assets/img/svg/interiors.svg"); }
     .suggestion__list--tenders::before {
-      background-image: url("/assets/img/svg/tenders.svg"); }
+      background-image: url("../assets/img/svg/tenders.svg"); }
     .suggestion__list--products::before {
-      background-image: url("/assets/img/svg/products.svg"); }
+      background-image: url("../assets/img/svg/products.svg"); }
     .suggestion__list--questions::before {
-      background-image: url("/assets/img/svg/questions.svg"); }
+      background-image: url("../assets/img/svg/questions.svg"); }
     .suggestion__list--firms::before {
-      background-image: url("/assets/img/svg/firms.svg"); }
+      background-image: url("../assets/img/svg/firms.svg"); }
     .suggestion__list--sections::before {
-      background-image: url("/assets/img/svg/sections.svg"); }
+      background-image: url("../assets/img/svg/sections.svg"); }
   .suggestion__item {
     margin-bottom: 5px; }
     .suggestion__item--more {

@@ -122,9 +122,7 @@ var Suggestion = /*#__PURE__*/function () {
             return dictionary[value];
           }
         }
-      }); // this._updateData();
-
-      window.app = this.app;
+      });
     }
   }, {
     key: "_queryMock",
@@ -136,7 +134,7 @@ var Suggestion = /*#__PURE__*/function () {
     value: function _updateData() {
       var _this3 = this;
 
-      fetch("/json/ajax/".concat(this._queryMock(), ".json")).then(function (response) {
+      fetch("json/ajax/".concat(this._queryMock(), ".json")).then(function (response) {
         return response.json();
       }).then(function (data) {
         _this3.app.suggestion = _this3._checkData(data);
